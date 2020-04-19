@@ -1,4 +1,4 @@
-# did-i-water-my-garden-1
+# did-i-water-my-garden-2
 Did I Water my Garden Demo App pt. 2
 
 ## Getting started
@@ -15,4 +15,4 @@ run your migrations
 run dev runserver
 `python manage.py runserver`
 
-[tutorial pt. 1](https://read.maverickmoore.com/learn-django-tutorial-startproject/)
+[tutorial pt. 2](https://read.maverickmoore.com/learn-django-tutorial-forms/)
